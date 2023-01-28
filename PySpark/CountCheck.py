@@ -13,7 +13,7 @@ ss = SparkSession.\
 
 df = ss.read.option("header", True)\
     .options(delimiter=',')\
-    .csv("C:/Users/001Y1S744/Downloads/BP_vis_lfl_svr_volume_20221206.dat")
+    .csv("path of the file")
 print("Extracted Data...", df.count())
 df1 = df.distinct()
 print("removed duplicates....", df1.count())
