@@ -1,0 +1,59 @@
+SELECT empno,
+       deptno,
+       sal,
+       RANK() OVER (PARTITION BY deptno ORDER BY sal) "rank"
+FROM   emp;
+
+     EMPNO     DEPTNO        SAL       rank
+---------- ---------- ---------- ----------
+      7934         10       1300          1
+      7782         10       2450          2
+      7839         10       5000          3
+      7369         20        800          1
+      7876         20       1100          2
+      7566         20       2975          3
+      7788         20       3000          4
+      7902         20       3000          4
+      7900         30        950          1
+      7654         30       1250          2
+      7521         30       1250          2
+      7844         30       1500          4
+      7499         30       1600          5
+      7698         30       2850          6
+
+
+SELECT empno,
+       deptno,
+       sal,
+       DENSE_RANK() OVER (PARTITION BY deptno ORDER BY sal) "rank"
+FROM   emp;
+
+     EMPNO     DEPTNO        SAL       rank
+---------- ---------- ---------- ----------
+      7934         10       1300          1
+      7782         10       2450          2
+      7839         10       5000          3
+      7369         20        800          1
+      7876         20       1100          2
+      7566         20       2975          3
+      7788         20       3000          4
+      7902         20       3000          4
+      7900         30        950          1
+      7654         30       1250          2
+      7521         30       1250          2
+      7844         30       1500          3
+      7499         30       1600          4
+      7698         30       2850          5
+
+
+select empno
+       ,salary
+       ,row_number() over(order by salary desc) as Serial
+       ,Rank() over(order by salary desc) as rank
+       ,dense_rank() over(order by salary desc) as denseRank
+from emp ;
+
+
+ROW_NUMBER() attributes a unique value to each row
+RANK() attributes the same row number to the same value, leaving "holes"
+DENSE_RANK() attributes the same row number to the same value, leaving no "holes"
