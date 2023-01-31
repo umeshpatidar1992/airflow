@@ -1,11 +1,8 @@
-text = "Hello This is user"
+text = "hello this is user"
 
 def cap(name):
-    for i in name:
-        first = i[0]
-        mid = i[1:2]
-    return first.upper() + mid
-
+    for i in name.split():
+        print(i[0].capitalize()+(i[1:len(i)]))
 
 if __name__=='__main__':
-    print(cap(text))
+    cap(text)
