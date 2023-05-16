@@ -23,7 +23,7 @@ if __name__ == '__main__':
     df.printSchema()
     df.show()
 
-    # Can not use to explode in same statement >> through multiple generator error
+    # Can not use to explode two col in same statement >> through multiple generator error
     df1 = df.select(df.name, explode(df.knownLanguages))
     df1.printSchema()
     df1.show()

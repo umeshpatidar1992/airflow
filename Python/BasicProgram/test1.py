@@ -40,8 +40,8 @@ def count_substring():
     print("number of time Emma present: ",count)
 
 if __name__ == '__main__':
-    #num1 = int(input("Enter 1st Number: "))
-    #num2 = int(input("Enter 2nd Number: "))
+    #num1 = int(source("Enter 1st Number: "))
+    #num2 = int(source("Enter 2nd Number: "))
     #cal_product(num1, num2)
     #remove_char('Hello', 6)
     #cal_curr_previous_num()

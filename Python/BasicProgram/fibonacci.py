@@ -1,20 +1,10 @@
-'''
-Example: 10
-1 = 1
-1+1 =2
-1+2 =3
-2+3 =5
-3+5 = 8
-'''
+data = "test wonderful wonderful"
+d = {}
+for i in data.split(" "):
+	if i in d:
+	    i = i + 1
+	else:
+		i = 1
 
-if __name__ == '__main__':
-    num = int(input())
-    t1 = 0
-    t2 = 1
-    fb = 0
-    while fb < num:
-        print(t1)
-        fb = t1+t2
-        t1 = t2
-        t2 = fb
-        fb += 1
+for key in d.keys():
+	print(key ,":" , d[key])

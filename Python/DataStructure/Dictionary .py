@@ -4,13 +4,14 @@ def dict_comrehensive():
         print(k)
     for v in data_dict.values():
         print(v)
-    reverse_dict = {}
+
     key_list=[]
     value_list = []
     for k,v in data_dict.items():
         print("key is ",k,"and value is ",  v)
         key_list.append(k)
         value_list.append(v)
+
     dict_com = {value:key for (key,value) in zip(key_list,value_list) }
     print("reversed dictionary: ", dict_com)
 

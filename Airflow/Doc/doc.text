@@ -3,9 +3,11 @@ Datasets are amazing, but they have limitations as well:
 
 
 
-DAGs can only use Datasets in the same Airflow instance. A DAG cannot wait for a Dataset defined in another Airflow instance.
+DAGs can only use Datasets in the same Airflow instance.
+A DAG cannot wait for a Dataset defined in another Airflow instance.
 
-Consumer DAGs are triggered every time a task that updates datasets completes successfully. Airflow doesn't check whether the data has been effectively updated.
+Consumer DAGs are triggered every time a task that updates datasets completes successfully.
+Airflow doesn't check whether the data has been effectively updated.
 
 You can't combine different schedules like datasets with cron expressions.
 

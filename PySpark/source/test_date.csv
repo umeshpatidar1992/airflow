@@ -1,0 +1,8 @@
+branch,date,seller,item,quantity,unit_price
+Paris-1,2021-12-07,Charles,Headphones A2,1,80
+London-1,2021-12-06,John,Cell Phone X2,2,120
+London-2,2021-12-07,Mary,Headphones A1,1,60
+Paris-1,2021-12-07,Charles,Battery Charger,1,50
+London-2,2021-12-07,Mary,Cell Phone B2,2,90
+London-1,2021-12-07,John,HeadphonesA0,5,75
+London-1,2021-12-07,Sean,Cell Phone X1,2,100

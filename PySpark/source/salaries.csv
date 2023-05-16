@@ -1,0 +1,1001 @@
+Name,Job,Age,Salary
+Kevin Sanders,High School Teacher,45,12100.0
+Lisa Mills,High School Teacher,36,9100.0
+Donna Allison,High School Teacher,34,7800.0
+Michael Schmitt,Accountant,62,18200.0
+Lisa Shaffer,Software Engineer,49,14800.0
+Jeffrey Heath,Software Engineer,31,9400.0
+Joanne Perez,Accountant,48,13500.0
+Jeffrey Wilson,High School Teacher,58,15700.0
+Maria Moreno,Software Engineer,24,8300.0
+Frank Gutierrez,Accountant,62,17700.0
+George Diaz,Accountant,28,8000.0
+Susan Smith,Accountant,29,6800.0
+Scott Smith,Software Engineer,39,13800.0
+Justin Patel,Dentist,45,16600.0
+Paul Marquez,Dentist,63,22000.0
+Michael Bennett,Dentist,64,22300.0
+Kenneth Curtis PhD,Dentist,65,24100.0
+Connor Harris,High School Teacher,35,8600.0
+Richard Villarreal,Dentist,42,15700.0
+Michael Conner,Dentist,39,14800.0
+Patricia Perkins,Software Engineer,29,11300.0
+Erika Wheeler,Dentist,60,21300.0
+Jared Gray,High School Teacher,58,14500.0
+Aaron Kim MD,Accountant,28,7500.0
+Michelle Hernandez,High School Teacher,25,5100.0
+Peter Miller,Dentist,45,16800.0
+Amber Craig,Software Engineer,49,15300.0
+Tina Wood,Dentist,59,20300.0
+Christopher Ramirez,High School Teacher,59,15800.0
+Kent Ramirez,Accountant,40,12100.0
+Sean Jones,Dentist,37,15200.0
+Deanna Hubbard,Dentist,41,14900.0
+Tina Townsend,Software Engineer,51,16400.0
+Philip Costa,Dentist,40,16100.0
+Kelly Williams,Software Engineer,40,14100.0
+David Bowen,High School Teacher,34,8800.0
+Justin Walton,Dentist,54,20800.0
+Monica Owen,Software Engineer,49,16800.0
+Adriana Stanley,Software Engineer,40,12100.0
+Samantha Scott,Dentist,23,11000.0
+Anthony Cole,Software Engineer,28,10000.0
+Raymond Aguilar,Software Engineer,63,19500.0
+Gerald Davis,High School Teacher,28,7500.0
+Steve Jackson,Dentist,24,9300.0
+Laura Potter,Accountant,65,18100.0
+James Taylor,Accountant,40,12100.0
+James Moreno,Dentist,41,14400.0
+James Grant,Software Engineer,48,15000.0
+Samuel Smith,Dentist,40,16100.0
+Miguel Smith,High School Teacher,23,5500.0
+Alex Taylor,Software Engineer,35,11600.0
+Natasha Burch,Dentist,36,14900.0
+Sheryl Butler,Software Engineer,59,19000.0
+Tina Johnson,Dentist,55,21100.0
+Elizabeth Gonzales,High School Teacher,50,13300.0
+Jessica Mccall,Accountant,31,8600.0
+Brittany Bray,High School Teacher,58,17000.0
+Michael Flores,Dentist,52,17700.0
+Dana White,Accountant,59,15800.0
+Michael Sanders,Dentist,23,9500.0
+Susan Klein,High School Teacher,32,9200.0
+Denise Miller,Software Engineer,54,16800.0
+Cassandra Malone,Software Engineer,24,8300.0
+Linda Lewis,Dentist,37,13200.0
+Ronald Walsh,Accountant,32,8200.0
+Juan Stone,Dentist,54,19500.0
+Margaret Garcia,Software Engineer,42,14200.0
+Daniel Morrow,Dentist,28,11000.0
+Aaron Newman,Dentist,63,21000.0
+David Jones,Accountant,65,19600.0
+Kendra Noble,Accountant,44,12800.0
+Jack Rivas,Accountant,27,7200.0
+Courtney Wright,Dentist,31,12400.0
+Jennifer Smith,Dentist,64,22500.0
+Timothy Jimenez,Accountant,29,8800.0
+James Miller,Accountant,58,16500.0
+Brenda Henderson,High School Teacher,31,8900.0
+Dominic Williams,Dentist,41,16900.0
+Stephen Mcmillan,Software Engineer,64,20800.0
+Victoria Melton,High School Teacher,39,10800.0
+Christina Walker,Accountant,47,12200.0
+Nicholas Smith,Accountant,28,7700.0
+Mary Dickerson,Software Engineer,57,17200.0
+Scott West,Dentist,54,18300.0
+Stephen Johnson,Accountant,56,16100.0
+Krista Gilmore,Dentist,31,11900.0
+Angela Hughes,Accountant,52,15700.0
+Mr. Brandon Delacruz,Accountant,59,17000.0
+Allen Berger,Dentist,35,13600.0
+Stephanie Reed,Dentist,40,14600.0
+Taylor Anderson,Accountant,29,6800.0
+Benjamin Spencer,High School Teacher,56,13900.0
+Paul King,Software Engineer,50,17100.0
+Jennifer Baker,Dentist,62,22700.0
+Seth Graham,High School Teacher,57,15700.0
+Jennifer Gill,High School Teacher,42,10200.0
+Nathan Martinez,Software Engineer,48,15000.0
+Ashley Schneider MD,Software Engineer,55,16600.0
+Ryan Levy,Dentist,27,10700.0
+Gerald Diaz,Accountant,47,13400.0
+Jared Wood,Accountant,43,12500.0
+Michael Coleman,High School Teacher,42,11200.0
+Matthew Lewis,Accountant,28,6500.0
+Michael Johnson,Dentist,25,11100.0
+Tina Freeman,High School Teacher,43,11200.0
+Jesse Waters,Accountant,26,7900.0
+Stephanie Carrillo,Dentist,41,15600.0
+Michelle Edwards,Software Engineer,57,19200.0
+Robert Silva,Dentist,27,11700.0
+Scott Williams,High School Teacher,62,17200.0
+Brittney Stephens,Dentist,45,17100.0
+Lori Smith,High School Teacher,38,10000.0
+Angel Hernandez,Dentist,33,14500.0
+Timothy Lee,High School Teacher,27,6400.0
+Sarah Mathis,Software Engineer,60,20600.0
+Katherine James,Accountant,65,20100.0
+Joshua Villanueva,Accountant,23,6000.0
+Angel Osborne,Software Engineer,37,11200.0
+Scott Anderson,Dentist,50,19100.0
+Matthew Martin,High School Teacher,58,15500.0
+Jennifer Davis,Dentist,32,13200.0
+Robert Spears,Accountant,39,11300.0
+Traci Mcintosh,Accountant,63,18200.0
+Jason Hays,Dentist,53,19000.0
+Teresa Rivera,Accountant,59,16300.0
+Christopher Ramirez,Software Engineer,43,14500.0
+John Hall,Dentist,60,20600.0
+Isaac Spence,Software Engineer,24,9800.0
+Natalie Lambert,Software Engineer,49,16000.0
+Ryan Armstrong,Accountant,58,16700.0
+Scott Wheeler,Dentist,28,10500.0
+Cody Joseph,Software Engineer,33,12500.0
+Charles Marks,High School Teacher,51,12900.0
+Nathan Alexander,Software Engineer,32,11700.0
+Kenneth Barrett,Dentist,50,18300.0
+Scott Brown,High School Teacher,65,19100.0
+Lisa Nguyen,High School Teacher,28,6500.0
+Michelle Cooper,Dentist,26,10900.0
+Ruth Miller,Software Engineer,57,18200.0
+John Fuller,High School Teacher,61,16400.0
+Wendy Orozco,Accountant,54,15500.0
+Luis Gordon,Dentist,47,17400.0
+Cassandra Rivera,Accountant,33,9500.0
+Stephanie Estes,Dentist,63,22200.0
+Lisa Davis,Dentist,32,12900.0
+Lisa Tucker DDS,Accountant,56,14900.0
+Nathan Stanton,Accountant,52,14700.0
+Laura Cabrera,High School Teacher,40,10300.0
+Joseph Lewis,Accountant,39,10300.0
+Zachary Hughes,Dentist,43,16200.0
+Emily Reynolds,Dentist,26,11100.0
+Julie Henry,Dentist,42,16700.0
+Kimberly Murillo,Accountant,47,14200.0
+Julia Evans,High School Teacher,63,17500.0
+Tammy Brown,Dentist,30,11100.0
+Catherine Sanders,Software Engineer,36,10900.0
+Michael Rojas,Software Engineer,52,16700.0
+Frank Medina,High School Teacher,55,15100.0
+James King,Software Engineer,51,16600.0
+Tonya Perez,Accountant,27,8700.0
+Jennifer Cruz,Accountant,51,14600.0
+Sara Savage,High School Teacher,23,6000.0
+Jeffery Diaz,High School Teacher,33,8200.0
+Lawrence Jackson,High School Teacher,44,10300.0
+John Rodriguez,Accountant,62,17700.0
+Michael Thompson,Accountant,38,12000.0
+Omar Flores,Software Engineer,28,11000.0
+Victoria Fox,Accountant,54,15800.0
+Robert Clark,High School Teacher,23,5000.0
+Ashley Watson,Accountant,28,7700.0
+Edward Ray Jr.,Dentist,38,13500.0
+Joshua Lane,High School Teacher,39,10300.0
+Jordan Decker,Dentist,58,20500.0
+Kaitlyn Nguyen,Accountant,48,14500.0
+George Hart,Software Engineer,24,8800.0
+Erika Rosales,High School Teacher,59,14800.0
+Brooke Morgan,High School Teacher,38,10000.0
+Kelly Ball,Software Engineer,30,9600.0
+Troy Jones,Accountant,53,14500.0
+Mark Harrell,High School Teacher,27,6700.0
+Peter Hicks,High School Teacher,58,15500.0
+Brian Barrett,High School Teacher,23,5000.0
+Brittany Spencer,Dentist,29,11300.0
+Kevin Carroll,High School Teacher,38,9500.0
+Sarah Williams,Accountant,30,9100.0
+Shaun Kim,High School Teacher,41,11900.0
+Jeremy Wilson,High School Teacher,52,15200.0
+William Lambert,High School Teacher,32,8200.0
+April Lawrence,Software Engineer,61,20400.0
+Curtis May,Software Engineer,61,18900.0
+Joseph Whitaker,Accountant,41,11400.0
+Derek Campbell,Software Engineer,43,15500.0
+Michael Brown,High School Teacher,64,16300.0
+Bobby Daniels,High School Teacher,47,12200.0
+Anthony Jones,Software Engineer,54,16300.0
+Zachary Brown,Software Engineer,48,15500.0
+Mario Douglas,Accountant,48,14500.0
+Daniel Cook,Software Engineer,62,19700.0
+Jeffrey Baldwin,Software Engineer,41,12900.0
+Michael Lee,High School Teacher,53,15500.0
+Patricia Williams,High School Teacher,27,7700.0
+Shannon Brown,High School Teacher,56,15400.0
+Wendy Bonilla,High School Teacher,64,17500.0
+Daniel Davis,Dentist,28,10500.0
+Dr. Cathy Bradley,High School Teacher,56,15900.0
+Timothy Perez,Accountant,43,11500.0
+Cassandra White,Accountant,37,11700.0
+Michael Williams,High School Teacher,36,10400.0
+Donald Hawkins,Accountant,28,6500.0
+Michael Haynes,Software Engineer,38,11500.0
+Joseph Bruce,Accountant,26,7100.0
+Kyle Holmes,Accountant,55,14600.0
+Eric Martin,Dentist,34,12800.0
+Julia Figueroa,High School Teacher,65,16600.0
+Jacqueline Scott,Dentist,44,15300.0
+Kelly Pittman,Accountant,56,16400.0
+Sandra Robinson,Software Engineer,46,16400.0
+Jeffrey Hill,High School Teacher,51,12400.0
+Katherine Smith,Dentist,36,13400.0
+David Murphy,Software Engineer,23,9500.0
+Caitlin Berger,Accountant,51,14900.0
+Anna Austin,High School Teacher,33,8000.0
+John Moore,Dentist,29,12800.0
+Tyler Ramos,Accountant,64,18500.0
+Christopher Ramos,High School Teacher,30,7300.0
+Michele Fischer,Software Engineer,27,8200.0
+Alexandra Green,Software Engineer,48,15000.0
+Steven Martinez,Accountant,31,7900.0
+David Dean,Dentist,60,21600.0
+Jordan Fernandez,High School Teacher,27,7700.0
+Michael Mosley,Software Engineer,27,8200.0
+Jennifer Mccall,High School Teacher,25,5600.0
+Patricia Murphy,Accountant,63,19500.0
+Todd Holland,Dentist,65,23600.0
+Daniel Fernandez,Dentist,29,12300.0
+Craig Perry,High School Teacher,62,17700.0
+Charles James,High School Teacher,25,5800.0
+David Cole,Software Engineer,53,16000.0
+Jennifer Floyd,High School Teacher,44,11500.0
+Thomas Grant,Dentist,62,22700.0
+Eric Morales,Accountant,46,12900.0
+Brent Smith,High School Teacher,28,6500.0
+Sabrina Mitchell,Accountant,34,10800.0
+Ronald Kaiser,Software Engineer,63,20000.0
+Dawn Saunders,Accountant,45,11600.0
+Dennis Duncan,Software Engineer,35,11800.0
+Emily Adams,Software Engineer,56,18400.0
+Joseph Stuart,Dentist,61,21900.0
+John Koch,Accountant,35,10600.0
+Brandi Kelley,Dentist,37,14700.0
+Andrew Jones,High School Teacher,42,10700.0
+Amanda Brown,Software Engineer,44,14800.0
+Debra West,Dentist,33,13000.0
+Jasmine Smith,Dentist,38,13500.0
+Amy Richards,High School Teacher,61,16600.0
+Nathaniel Murphy,Dentist,33,13200.0
+Kathleen Reed,Software Engineer,26,9100.0
+George Smith,Accountant,25,6100.0
+Sabrina Chavez,Accountant,40,10100.0
+Valerie Martinez,High School Teacher,63,18500.0
+Michelle Walker,High School Teacher,24,5500.0
+Lori Beasley,High School Teacher,49,11800.0
+Jacob Moran,Dentist,29,12300.0
+James Cobb,Software Engineer,60,20600.0
+Anna Smith,High School Teacher,64,16300.0
+Clayton Logan,High School Teacher,55,14100.0
+Robert Harrison,High School Teacher,44,12800.0
+Ryan Fry,Accountant,32,9200.0
+Brooke Thomas,High School Teacher,52,13900.0
+Shane Clark,Software Engineer,47,14200.0
+Jaime Caldwell,Dentist,55,19100.0
+Marc Chavez,High School Teacher,48,13500.0
+Larry Thomas,Accountant,40,10600.0
+Donald Yates,Software Engineer,55,17100.0
+Angela Smith,Dentist,65,21600.0
+John Wright PhD,Dentist,23,10200.0
+Michael Brooks,Accountant,65,18800.0
+Anna Snow,High School Teacher,48,12700.0
+Allison Peterson,High School Teacher,45,12600.0
+Amanda Vargas,Accountant,27,8700.0
+Sara Taylor,Dentist,31,11400.0
+Jason Reeves,Software Engineer,59,18800.0
+Kristin Hart,Accountant,38,10000.0
+Christina Clark,Software Engineer,38,13000.0
+Bailey Reyes,High School Teacher,30,8100.0
+Tyler Jordan,Accountant,64,18300.0
+Dana Washington,Software Engineer,48,16000.0
+Jay Brooks,Dentist,53,19200.0
+Kirsten Hampton,Software Engineer,65,22100.0
+Bruce Arias,Software Engineer,48,15000.0
+Christopher Parks,Software Engineer,24,8800.0
+Gerald Tucker,Accountant,58,18000.0
+Elizabeth Buchanan,Accountant,56,14900.0
+Peter Scott,Software Engineer,57,19200.0
+John Bell,Software Engineer,62,18700.0
+Michelle Brown,Dentist,54,20300.0
+Zachary Taylor,High School Teacher,60,15600.0
+Henry Ward,Software Engineer,47,16700.0
+Logan Rogers,High School Teacher,46,10900.0
+Alyssa Mitchell,Accountant,27,8700.0
+John Terry,Dentist,52,18700.0
+Nicole Kline,High School Teacher,50,12600.0
+Thomas Schwartz,Dentist,55,18600.0
+Jenna Clark,Dentist,49,17800.0
+Alex Bauer,Accountant,56,17400.0
+Christopher Huff,Dentist,58,20000.0
+Anita Butler,Software Engineer,35,11100.0
+Jason Schultz,Software Engineer,39,11800.0
+Darryl Ruiz,Software Engineer,59,19300.0
+Theresa Wheeler,Software Engineer,39,13800.0
+Brittany Fisher,Software Engineer,47,15700.0
+Denise Torres,Software Engineer,35,11100.0
+Troy Gutierrez,High School Teacher,39,9800.0
+Kathleen Mendez,Accountant,33,9500.0
+Amy Donovan,Software Engineer,38,12000.0
+Ryan Mcdonald,Dentist,34,14300.0
+Vincent Duffy,Software Engineer,56,16900.0
+Elizabeth Wilkerson,Accountant,35,8600.0
+William Phillips,Accountant,56,15900.0
+Allison Santana DVM,High School Teacher,47,11700.0
+Cody Orozco,Accountant,33,9200.0
+Michelle Wood,Accountant,54,15300.0
+Nancy Taylor,Software Engineer,39,12300.0
+Deanna Gomez,Accountant,44,11300.0
+Jason Cummings,High School Teacher,25,5100.0
+Timothy Richardson,Accountant,30,9100.0
+Thomas Rivera,High School Teacher,27,6200.0
+Nathan Douglas,Software Engineer,33,11500.0
+Jessica Jensen,Dentist,58,19500.0
+Megan Kramer,High School Teacher,60,17100.0
+Tina Bell,Dentist,62,21900.0
+James Hartman,High School Teacher,29,8300.0
+Michael Foley,Software Engineer,29,10000.0
+Tanner Rodriguez,Dentist,29,12300.0
+Allison Crawford,Software Engineer,35,13100.0
+Jeffery Brooks,Dentist,45,16600.0
+Emma Day,Dentist,32,11700.0
+Raymond Ruiz,Accountant,33,8000.0
+Eric Short,Software Engineer,55,17800.0
+Becky Franklin,Software Engineer,65,20100.0
+Joshua Phillips,High School Teacher,23,6500.0
+Patricia Jackson,Software Engineer,48,15500.0
+Charles Chen,High School Teacher,52,13200.0
+Mark Doyle,High School Teacher,57,14200.0
+Daniel Chandler,Accountant,62,17200.0
+Tracy Smith MD,Dentist,23,9500.0
+Brian Boyd,Accountant,35,9100.0
+Lindsey Lindsey,High School Teacher,61,15400.0
+Jill Collins,Accountant,31,8400.0
+Dr. Ryan Barajas,High School Teacher,37,10200.0
+Brianna Parker,High School Teacher,39,10300.0
+Katelyn Williams,High School Teacher,33,9500.0
+Wanda Holland,High School Teacher,62,16700.0
+Linda King,Dentist,53,20500.0
+Erik Stevens,Software Engineer,56,17900.0
+Robert Carney,Software Engineer,58,19500.0
+Robert Cox,Dentist,24,11300.0
+Brianna Bernard,Dentist,60,22600.0
+Jodi Ramirez,Accountant,32,9700.0
+Nicholas Ward,Software Engineer,33,12000.0
+Robert Thomas DVM,Accountant,32,10200.0
+Melanie Reyes,Accountant,38,10700.0
+Brenda Brady,Dentist,59,19800.0
+Andrea Mcdonald,Accountant,46,11900.0
+Judith Taylor,Accountant,32,8700.0
+Antonio Wilson,Dentist,65,24100.0
+Steven Allen,Software Engineer,24,7800.0
+Jesus Johnson,Software Engineer,39,13000.0
+Cody Waters,High School Teacher,42,10700.0
+Carl Franco,Software Engineer,61,19900.0
+Michael Brown,Software Engineer,24,8500.0
+Jennifer Stewart,Dentist,37,13200.0
+Molly Griffin MD,High School Teacher,35,8800.0
+Beth Mcmillan,Dentist,37,14700.0
+Robert Dean,Dentist,58,21500.0
+David Brown,Software Engineer,57,18200.0
+Christina Gutierrez,Dentist,27,11200.0
+Sean Jackson,Accountant,26,5900.0
+Phillip Bowman,Accountant,57,16400.0
+Samantha Carroll,Software Engineer,51,15400.0
+Brian Williams,High School Teacher,33,8500.0
+Joshua Sullivan,Software Engineer,43,15500.0
+Gordon Wood,Accountant,32,10200.0
+Michele Chavez,Accountant,42,11200.0
+Marie Clark,Accountant,51,14600.0
+Brian Martinez,Software Engineer,28,9000.0
+Calvin Johnson,Software Engineer,32,11700.0
+Alison Norman,Dentist,48,18500.0
+Dennis Jones,High School Teacher,33,7500.0
+Charles Johnston,Dentist,33,13000.0
+Christopher Stanley,Dentist,36,14900.0
+Brenda Norton,Accountant,49,13800.0
+Frank Hays,Dentist,56,18900.0
+Maria Russo,Software Engineer,28,11000.0
+Beth Kidd,High School Teacher,40,10600.0
+Laura Hancock,Dentist,25,10100.0
+Alejandro Kelly,Accountant,25,5600.0
+Alexis Fuller,High School Teacher,54,15300.0
+Clinton Herrera,High School Teacher,28,6500.0
+Dana Rivera,Software Engineer,58,20000.0
+Barbara Mays,Dentist,47,18700.0
+Adam Walsh DDS,Accountant,27,7400.0
+Tina Ortega,Accountant,65,17600.0
+Wayne Floyd,Dentist,48,16500.0
+Julie George,Dentist,48,17000.0
+Richard Sexton,Accountant,31,9400.0
+Terry Hale,Dentist,50,18600.0
+Madison Duarte,Software Engineer,61,18900.0
+Megan Bailey,High School Teacher,39,10000.0
+Carol Alvarez,Software Engineer,49,16300.0
+Kyle Olson,High School Teacher,55,13600.0
+Donna Miller,Accountant,28,8000.0
+Tonya Kennedy,High School Teacher,58,16500.0
+Kimberly Brown,Dentist,59,21800.0
+Randall Boone,Dentist,55,21100.0
+Jamie Smith,Accountant,61,17900.0
+Aaron Palmer,High School Teacher,61,16400.0
+Michael Snyder,High School Teacher,64,18300.0
+Troy Murphy,Dentist,28,12000.0
+Robin Dunn,High School Teacher,40,10100.0
+Matthew Lloyd,Accountant,51,15900.0
+Amber Taylor,Dentist,56,20900.0
+Erin Mcgee,Software Engineer,65,21600.0
+Jennifer Cortez,High School Teacher,54,14500.0
+Shannon Moran,Software Engineer,36,11400.0
+Phillip Williams,Accountant,29,7800.0
+Nancy Wilson,Dentist,42,17200.0
+Chad Chase,Accountant,23,7000.0
+Taylor French,High School Teacher,62,16700.0
+Melissa Bryant,High School Teacher,52,12700.0
+Linda Carson,High School Teacher,38,11000.0
+Julie Wilkerson,Dentist,43,17000.0
+Timothy Garcia,Accountant,33,9000.0
+James Bradford,High School Teacher,31,6400.0
+Craig Harris,Dentist,34,12800.0
+Taylor Johnson,Accountant,55,15100.0
+Scott Rodriguez,Software Engineer,65,20600.0
+Kevin Robinson,High School Teacher,63,17200.0
+Michelle Fuller,High School Teacher,56,15100.0
+Pamela Cameron,Accountant,55,16100.0
+Michelle Flores,Accountant,41,11400.0
+David Ward,Dentist,58,20000.0
+Michael Torres,Dentist,63,22500.0
+Mrs. Wendy Taylor,Software Engineer,43,14200.0
+Anthony Ray,Software Engineer,42,12700.0
+Dawn Richardson,High School Teacher,34,9800.0
+Jennifer Francis,Accountant,28,7700.0
+Leon Smith,Software Engineer,51,17900.0
+Tracie David,Accountant,46,14400.0
+Stefanie Bennett,Software Engineer,32,12200.0
+William Rivas,Software Engineer,23,9000.0
+Angela Taylor,High School Teacher,47,12700.0
+Casey White,Accountant,64,19800.0
+Melanie Bowman,Dentist,29,12300.0
+Carolyn Ford,Software Engineer,54,17800.0
+Brittany Smith,Software Engineer,40,13300.0
+Craig Li,Dentist,33,14000.0
+Brian Nguyen,High School Teacher,30,6600.0
+Sarah Zimmerman,Dentist,43,16200.0
+Isabel Buchanan,High School Teacher,53,13000.0
+Heather White,Dentist,53,19200.0
+Katherine Reyes,Software Engineer,39,13000.0
+Sherri Reed,Software Engineer,33,11000.0
+Emily Hernandez,Software Engineer,27,8700.0
+Lindsey Boyd,Software Engineer,43,15000.0
+Kimberly Carlson,Dentist,56,18900.0
+Brian Russell,Dentist,58,19500.0
+Dawn Porter,Dentist,49,18800.0
+Mark Cardenas,High School Teacher,52,14200.0
+Regina Harmon,Dentist,30,12300.0
+Anthony Clark,Software Engineer,39,14300.0
+Michael Silva,High School Teacher,35,8100.0
+Michelle Smith,High School Teacher,44,12800.0
+Andre Chandler,Software Engineer,26,7900.0
+Robert Smith,High School Teacher,41,10900.0
+Monica Rodriguez,High School Teacher,42,10900.0
+Elizabeth Harris,High School Teacher,42,12200.0
+Kevin Cooper,Accountant,34,10800.0
+Nicole Parker,Accountant,54,16300.0
+Eric Fowler,High School Teacher,44,11300.0
+Laura Armstrong,Accountant,54,15800.0
+Eileen Miles,High School Teacher,36,9900.0
+George Bennett,Dentist,30,12600.0
+Jennifer Roberts,Software Engineer,58,19000.0
+Joanna Briggs,Software Engineer,31,11400.0
+Kyle Rich,High School Teacher,30,8100.0
+Brandon Weaver,High School Teacher,60,16300.0
+April Robinson,High School Teacher,24,5800.0
+Alexandra Clark,Software Engineer,41,13600.0
+Kevin Knapp,High School Teacher,35,8600.0
+Christina Green,High School Teacher,62,16700.0
+Michelle Dougherty,Software Engineer,28,9700.0
+Stacey Barajas,Software Engineer,39,13000.0
+Steven Smith,Software Engineer,23,9500.0
+Mr. Kevin Hoffman MD,High School Teacher,25,6100.0
+Justin Wade,Accountant,37,10400.0
+Nicholas Garcia,Software Engineer,30,11600.0
+Katherine Lopez,Accountant,51,15900.0
+Haley Morgan,Accountant,24,6800.0
+Krista Wilson,Accountant,61,18900.0
+Patricia Brown,Accountant,53,15000.0
+John Garcia,Accountant,53,16000.0
+Krystal Lloyd,Dentist,35,14600.0
+Amanda Parker,Dentist,26,11400.0
+John Brown,Software Engineer,39,14300.0
+Deborah Rowe,Accountant,50,13100.0
+John Jackson,Software Engineer,57,18200.0
+Jennifer Martinez,Software Engineer,49,15300.0
+Mark Wiggins,Accountant,40,11600.0
+Nicole Dorsey,High School Teacher,63,18000.0
+Frank Leblanc,Accountant,52,14700.0
+Tom Durham,Accountant,28,7500.0
+Tim Crane,Dentist,38,16000.0
+Jessica Glass,Dentist,36,14400.0
+Dr. Deanna Smith,Software Engineer,56,17400.0
+Anthony Roberts,Dentist,64,23300.0
+Martin Foster,Accountant,44,13800.0
+Steven Stephens,Software Engineer,54,17800.0
+Matthew Howard,Software Engineer,51,16900.0
+Donald Graham,Dentist,63,22500.0
+Megan Harris,High School Teacher,36,10400.0
+Ronald Smith,Software Engineer,36,11900.0
+Juan Dillon,Software Engineer,60,18600.0
+Benjamin Freeman,Accountant,58,16500.0
+Alice Paul,Dentist,62,23200.0
+Richard Swanson,High School Teacher,31,7900.0
+Roy Estrada,Dentist,43,16200.0
+Richard Kirby Jr.,Software Engineer,44,13300.0
+John Martinez,Accountant,23,6500.0
+Brittany Clayton,High School Teacher,23,4500.0
+Jennifer Henson,Dentist,62,20700.0
+Evan Gibson,Software Engineer,27,9400.0
+Michael Maxwell,Dentist,62,22200.0
+Victoria Boone,Accountant,43,12500.0
+Annette Woods,Accountant,52,13700.0
+Angela Garcia,Dentist,34,12800.0
+Vincent Glover,High School Teacher,56,14400.0
+Christopher Richardson,High School Teacher,50,12100.0
+Dr. Patricia House,Accountant,58,16500.0
+Theresa Snyder,Software Engineer,57,17200.0
+Aaron Nielsen,Software Engineer,33,11200.0
+Dr. Mark Christian,Dentist,54,20800.0
+Gary Padilla,Accountant,47,13400.0
+Samantha Moon,Software Engineer,26,8900.0
+David Woods MD,Software Engineer,58,19000.0
+Laurie Davis,Accountant,48,12500.0
+Lisa Carroll,Software Engineer,34,12800.0
+Kelsey Richards,Software Engineer,43,13500.0
+Jennifer Jacobs,Dentist,45,16800.0
+George Charles,Software Engineer,39,14300.0
+Holly Harris,High School Teacher,32,7200.0
+Olivia Stewart,Dentist,29,12000.0
+Patrick Good,Dentist,64,22800.0
+Rickey Reyes,Dentist,43,16200.0
+Jennifer Grimes,Accountant,33,9000.0
+Anthony Murphy,High School Teacher,24,5800.0
+Kristen Barber,High School Teacher,31,8900.0
+Roberto Bryan,Software Engineer,48,15700.0
+Mary Valentine,Dentist,64,22300.0
+Melissa Cole,Dentist,58,22000.0
+Jesse Pruitt,Software Engineer,33,11500.0
+Candice Mills,Accountant,33,9500.0
+Charles Rodriguez,High School Teacher,27,7700.0
+Donald Mcclain,Software Engineer,42,14700.0
+Connie Soto,Software Engineer,26,10400.0
+Shannon Hancock II,Software Engineer,52,16200.0
+Kathleen Stone,High School Teacher,64,17800.0
+Christina Watkins,High School Teacher,37,10700.0
+Megan Pham,High School Teacher,49,13300.0
+Tabitha Robinson,Accountant,57,16700.0
+Sarah Ellis,Accountant,28,7000.0
+Alisha Johns,High School Teacher,35,9600.0
+Joseph Bennett,Software Engineer,50,16300.0
+Jennifer Jackson,Software Engineer,65,20100.0
+Robert Hicks,Accountant,60,18600.0
+Barbara Daniel,Software Engineer,55,17800.0
+Corey Stanton,High School Teacher,42,12200.0
+Amy Owens,Software Engineer,51,17400.0
+Danielle Maxwell,High School Teacher,28,6000.0
+Allison Meadows,Dentist,44,16500.0
+Amanda Stuart,High School Teacher,53,14000.0
+Anthony Cox MD,Accountant,38,12000.0
+Thomas Mason,Dentist,34,14300.0
+Mark Ball,Accountant,47,13400.0
+Kathryn Torres,High School Teacher,42,10700.0
+Sara Martinez,Dentist,45,15600.0
+Kelly Holmes,Accountant,43,12200.0
+Michelle Rivera,Software Engineer,64,20800.0
+Jennifer Goodman,Dentist,51,17400.0
+Brian Owens,Accountant,27,8700.0
+Victoria Buckley,High School Teacher,42,11200.0
+Trevor Martinez,High School Teacher,35,8800.0
+Katherine Crawford,Dentist,35,13800.0
+Mr. Austin Anderson,Dentist,52,17700.0
+Emily Brown,Accountant,25,6100.0
+Brandon Carter,Software Engineer,45,15100.0
+Heather Garcia,Software Engineer,40,13300.0
+William Nichols,Software Engineer,50,16100.0
+Katherine Dominguez,Software Engineer,36,10900.0
+Samantha Johnson,Software Engineer,26,8400.0
+Adam Owens,Software Engineer,55,17600.0
+Dennis Hughes,High School Teacher,50,13300.0
+Valerie Webb,High School Teacher,52,15200.0
+Lisa Smith,Dentist,30,13100.0
+Greg Dunlap,Software Engineer,38,13000.0
+Andrew Lyons,High School Teacher,32,7700.0
+Tanner Thompson,Accountant,50,13600.0
+Michael Fleming,Software Engineer,58,18500.0
+Victoria Douglas,Software Engineer,31,9400.0
+Matthew Lucas,Accountant,57,17200.0
+Amanda Carpenter,Software Engineer,49,14800.0
+Troy Atkins,Dentist,59,21000.0
+Lauren Moss,Dentist,41,16900.0
+Ashley Osborn,Accountant,30,7600.0
+Jack Marshall,Dentist,57,21700.0
+Robert Miller,Accountant,41,12400.0
+Tim Smith,Accountant,28,8500.0
+Amanda Rodriguez,High School Teacher,48,12700.0
+Russell Miller,Dentist,34,13500.0
+Briana Huff,Software Engineer,48,16500.0
+Shelby Jackson,Accountant,43,11000.0
+James Allen,Dentist,39,16300.0
+Zachary Garcia,Accountant,25,8100.0
+Edwin Walker,Software Engineer,59,19800.0
+Kenneth Garcia,High School Teacher,51,13400.0
+Jonathan Johnson,Software Engineer,33,12500.0
+Nicole Wright,Accountant,37,10400.0
+Sarah Hill,High School Teacher,29,7800.0
+Matthew Pena,Dentist,50,19100.0
+Robert Keith,Accountant,42,11900.0
+Lisa Blair,Accountant,58,17000.0
+Jason Hernandez,High School Teacher,54,15800.0
+Richard Serrano,Dentist,32,13200.0
+Christina Clayton,High School Teacher,39,10300.0
+Jordan Smith,Dentist,30,13600.0
+Matthew Cox,Accountant,61,17600.0
+Dale Gutierrez,High School Teacher,38,10500.0
+Melissa Lopez,Dentist,27,12700.0
+Laurie Brooks,Accountant,31,8400.0
+Debra Thompson,High School Teacher,57,15200.0
+Robert Montgomery,High School Teacher,49,13000.0
+Patrick Johns,Software Engineer,47,14700.0
+Jonathan Perez,Accountant,49,13800.0
+David Wallace,Software Engineer,28,9500.0
+Brian Williams,Software Engineer,25,10100.0
+Jessica Mason,Accountant,53,15200.0
+Samantha Robinson,Software Engineer,58,18000.0
+Mark Zamora,High School Teacher,47,13700.0
+James Anderson,Dentist,44,16800.0
+Sabrina Juarez MD,Dentist,53,20500.0
+Ronald Singh,Dentist,49,19300.0
+Joseph Strickland,Accountant,33,10500.0
+Jason Hess,Dentist,54,20800.0
+Michael Ward,Dentist,34,13500.0
+Jennifer Miller,Software Engineer,65,21600.0
+Joseph Moran,Software Engineer,30,11100.0
+Jon Jones,Software Engineer,57,17200.0
+Kimberly Fuller,Dentist,34,13500.0
+Billy Rodriguez,High School Teacher,39,10300.0
+Tiffany Santiago,Dentist,63,22500.0
+David Miller,Dentist,23,11000.0
+Charles Brown,High School Teacher,65,18600.0
+Brittany Young,Dentist,57,21700.0
+Karina Vega,High School Teacher,53,15000.0
+Katie Roberts,Software Engineer,53,17000.0
+Jennifer Lewis,Software Engineer,59,18300.0
+Cindy Smith,Software Engineer,46,13900.0
+Robert Morton,High School Teacher,54,14800.0
+Elizabeth Morrison,High School Teacher,27,6700.0
+Carla Cordova,Software Engineer,37,12200.0
+Joseph Huff,Software Engineer,32,11700.0
+Jessica Garcia,Accountant,52,13700.0
+Tracy Wagner,Software Engineer,53,17200.0
+Danny Lawrence,Accountant,40,11300.0
+Brenda Hendricks,Software Engineer,57,18200.0
+Alex Fernandez,Accountant,32,8200.0
+Darrell Lawrence,High School Teacher,38,11000.0
+Timothy Clayton,Accountant,42,10700.0
+Kirk Evans,Accountant,24,7800.0
+Anthony Alvarez,High School Teacher,36,8900.0
+Steven Roman,Dentist,49,16800.0
+Rose Anderson,High School Teacher,65,18100.0
+Rachael Schroeder,Software Engineer,28,11000.0
+Robert Decker,Dentist,44,16500.0
+Crystal Price,High School Teacher,54,13800.0
+Tracy Vasquez,Accountant,45,13600.0
+Sarah Hays,Software Engineer,50,16100.0
+Stephanie Mckinney,Software Engineer,23,8200.0
+Sandra Anderson,Accountant,56,16400.0
+Jessica Lowe,High School Teacher,29,7800.0
+Mary Singleton,Accountant,42,12700.0
+William Carrillo,Accountant,65,18100.0
+Felicia Rodriguez,Accountant,62,19200.0
+Dr. Roy Smith,High School Teacher,35,9600.0
+Charles Williams,Dentist,23,11500.0
+Kenneth Mccall,High School Teacher,38,9700.0
+Mark Coleman,High School Teacher,26,6100.0
+Felicia Smith,Dentist,28,11000.0
+John Castillo,High School Teacher,60,16100.0
+Joshua Maddox,High School Teacher,28,6000.0
+Richard Nelson,Software Engineer,24,8800.0
+Paige Hawkins,High School Teacher,53,13500.0
+Corey Navarro,Accountant,52,14700.0
+Christopher Kim,Accountant,38,11000.0
+Ryan Lang,Dentist,60,20600.0
+Amy Oconnor,Dentist,64,23800.0
+Bradley Jones,Software Engineer,58,18700.0
+Charles Walker,Dentist,37,14200.0
+Mr. Michael Schneider,Accountant,37,10700.0
+Jason Butler,Software Engineer,53,18000.0
+Mr. Bryan Sanders,High School Teacher,31,6400.0
+Melissa Casey,High School Teacher,35,8800.0
+Erica Meyer,Dentist,35,13800.0
+Jason Payne,Dentist,38,14000.0
+Tony Park,Accountant,30,8300.0
+Christine Simmons,Software Engineer,45,14100.0
+Brandi Morris,Accountant,44,13300.0
+Spencer Patrick,Accountant,47,13400.0
+Kimberly Sanders,High School Teacher,33,8200.0
+Christine Barron,High School Teacher,31,7900.0
+Sarah Brown,High School Teacher,43,12000.0
+Erik Russo,Dentist,28,11500.0
+Holly Fisher,High School Teacher,62,16700.0
+Daniel White,Accountant,31,8900.0
+Sean Jones,High School Teacher,39,10300.0
+Cassidy Murray,High School Teacher,43,11000.0
+Mary Miller,Software Engineer,65,20600.0
+William Hughes,High School Teacher,53,13000.0
+Jerry Lee,Dentist,43,17000.0
+Kristen Warren MD,Software Engineer,28,9000.0
+Michael Ortiz,Dentist,37,14200.0
+Corey Irwin,Dentist,32,12900.0
+Brenda Green,High School Teacher,36,8900.0
+Jennifer Bowers,Accountant,52,16200.0
+Frederick Sanchez,Software Engineer,54,16800.0
+Michelle Nguyen,Accountant,42,12200.0
+Cynthia Crawford,Accountant,45,12100.0
+Joe Moon,High School Teacher,62,16900.0
+David Mendoza,Software Engineer,45,14800.0
+Kimberly Ramirez,Software Engineer,55,17800.0
+Zachary Rodriguez,Dentist,55,18600.0
+Scott Russell,Dentist,23,11500.0
+Christopher Anderson,High School Teacher,57,15200.0
+Christina Perez,Software Engineer,45,16100.0
+Christopher Johnson,Accountant,55,17100.0
+Stacy Malone,High School Teacher,48,13000.0
+Bryan Santiago,High School Teacher,25,6600.0
+Brandon Carroll,Dentist,57,20200.0
+Dr. Megan Weaver,Dentist,50,17600.0
+Heather Schultz,High School Teacher,55,14600.0
+William Wiley,High School Teacher,42,12200.0
+Peter Wright,High School Teacher,32,6700.0
+Elizabeth Dudley,Accountant,28,7500.0
+Alison Hernandez,Dentist,56,21400.0
+Andrea Fritz,Software Engineer,45,14100.0
+Jennifer Wilson,Software Engineer,43,13500.0
+Kelly Ryan,Software Engineer,35,11800.0
+Bradley Garcia,High School Teacher,53,15500.0
+Colin Tucker,Dentist,36,12900.0
+Kayla Mcguire,Dentist,38,14500.0
+Sandra Camacho,Software Engineer,61,18900.0
+Alison Mejia,Dentist,63,22000.0
+Justin Smith,High School Teacher,31,7900.0
+Margaret Silva,High School Teacher,44,10300.0
+Wendy Garcia,Dentist,31,11400.0
+Timothy Bennett,Dentist,31,12900.0
+Jennifer Torres,Software Engineer,51,16600.0
+Maria Nguyen,Dentist,27,12700.0
+Cathy Joseph,Software Engineer,34,12300.0
+Thomas Whitaker,High School Teacher,43,10000.0
+John Gonzalez,Accountant,59,16800.0
+Matthew Gay,Accountant,28,8500.0
+Heather Harper,High School Teacher,24,6300.0
+Barbara Nelson,Software Engineer,57,17700.0
+Christopher Jordan,Software Engineer,35,11600.0
+Joel Allen,Accountant,39,10300.0
+Kyle Klein,Accountant,62,18200.0
+Timothy Novak,Accountant,34,8300.0
+Daniel Garcia,High School Teacher,37,10700.0
+Megan Rodriguez,Accountant,57,15700.0
+Cynthia Gray,High School Teacher,62,16200.0
+Anthony Beck,Accountant,28,7700.0
+Michelle Bowers,Dentist,48,17700.0
+Patrick Stewart,High School Teacher,51,13600.0
+Travis Ortiz,Dentist,26,11100.0
+Benjamin Jones,Dentist,48,18000.0
+Alexis Valdez,Accountant,42,12200.0
+Carolyn Ross,High School Teacher,40,9100.0
+Ronald Howard,Software Engineer,51,16600.0
+Heather Adams,Accountant,65,18800.0
+James Anderson,High School Teacher,42,12200.0
+Janet Lane,Software Engineer,32,11700.0
+Bonnie Mann,Accountant,28,9000.0
+Tonya Moore,Software Engineer,60,20600.0
+Rodney Ramsey,High School Teacher,28,8000.0
+Jacqueline Russell,Accountant,53,14000.0
+Jaime Williams,Dentist,39,15800.0
+Patricia Green,Software Engineer,56,17900.0
+Christine Johnson,Accountant,61,16900.0
+Matthew Estrada,Software Engineer,33,10000.0
+Albert Garcia,Dentist,38,13500.0
+Elizabeth Campbell,Software Engineer,30,11600.0
+Donna Wright,High School Teacher,31,7400.0
+Seth Andrews,High School Teacher,55,15600.0
+Micheal Soto,Software Engineer,34,12800.0
+Stacey Harris,Dentist,23,10200.0
+Curtis Morales,Accountant,29,9300.0
+Chloe Torres,High School Teacher,35,7600.0
+Tammy Reeves,Dentist,53,19000.0
+Joseph Sanders,Dentist,41,14400.0
+William Greer,Accountant,45,11600.0
+Sydney Garcia,High School Teacher,64,17500.0
+Kerry Dominguez,Accountant,40,11600.0
+Brent Nguyen,Software Engineer,40,14100.0
+Joseph Watson,Dentist,48,18000.0
+Casey Bryant,Software Engineer,58,17500.0
+Dr. Mark Jackson,Dentist,36,13900.0
+Catherine Jones,Dentist,35,14600.0
+Adam Davidson,Accountant,29,9300.0
+Melinda Farrell,High School Teacher,36,9900.0
+William Robinson,High School Teacher,65,17600.0
+Joshua Cruz,Accountant,60,18100.0
+Brittany Murphy,High School Teacher,54,14500.0
+Carrie Sanchez,Dentist,46,17100.0
+Gabrielle Smith,High School Teacher,47,12700.0
+Michelle Montgomery,Accountant,61,17900.0
+Victor Lane,Software Engineer,45,14100.0
+Sharon Russell,Software Engineer,46,14900.0
+Vanessa Burns,Accountant,42,11200.0
+Angela Gilmore,Accountant,29,9300.0
+Ray Woods,Software Engineer,45,14100.0
+Miguel Escobar,Dentist,58,20000.0
+Kevin Brooks,Accountant,55,15600.0
+Keith Gutierrez,Software Engineer,58,19000.0
+Victoria Morgan MD,High School Teacher,29,5800.0
+Tom Ford,High School Teacher,48,13000.0
+Tracey Washington,Software Engineer,35,11600.0
+Jill Davis,Software Engineer,32,11200.0
+Alisha Mcdaniel,Software Engineer,30,11600.0
+Angela Johnson,Accountant,47,13200.0
+William Jennings,High School Teacher,51,13400.0
+Maria Mooney,High School Teacher,62,16700.0
+Jeffrey Thomas,High School Teacher,54,15800.0
+Tracey Armstrong,Software Engineer,28,11000.0
+Whitney Wilson,Software Engineer,24,8800.0
+Nathaniel Henry,Accountant,59,16800.0
+April Strickland,Software Engineer,24,8300.0
+Anna Mcgee,Accountant,58,16500.0
+Keith Rivers,Accountant,39,12300.0
+Kenneth Barker,Accountant,23,5500.0
+Christopher Rodriguez,Dentist,29,12300.0
+Andrea Zhang,High School Teacher,37,9200.0
+Amanda Reed,Accountant,23,7500.0
+Donna Hughes,Dentist,37,14200.0
+Dan Holmes,Software Engineer,27,8700.0
+Kimberly Flynn,Software Engineer,59,18300.0
+Rachel Rivas,High School Teacher,33,8200.0
+Michael Allen,Accountant,23,7500.0
+Connor Foster,Software Engineer,65,19600.0
+Erika Richards MD,Dentist,23,9000.0
+Megan Lucas,High School Teacher,40,11100.0
+Justin Moyer,High School Teacher,40,11100.0
+Angela Carrillo,Software Engineer,56,16900.0
+Mary Montoya,Accountant,52,15200.0
+Whitney Johnson,Accountant,49,14300.0
+Charles Walsh,Software Engineer,26,8900.0
+Miranda Mills,Dentist,43,16000.0
+Louis Cruz,High School Teacher,54,14500.0
+Kayla Anderson,Software Engineer,33,10000.0
+Brianna Adams,Software Engineer,23,8500.0
+Janice Holmes,Dentist,27,11400.0
+Joe Baker,Accountant,53,15000.0
+Christopher Parks,High School Teacher,23,5500.0
+Tyler Bennett,Dentist,53,20000.0
+Natalie Jackson,Software Engineer,53,16500.0
+Kevin Rodriguez,High School Teacher,41,10400.0
+Carol Brown,Dentist,44,17300.0
+Jose Jefferson,Dentist,45,16600.0
+Lindsay Klein,Dentist,56,19400.0
+William Anthony,Dentist,26,9900.0
+Jamie Harris,Software Engineer,35,12600.0
+Bailey Parker,Software Engineer,54,18800.0
+Melissa Mcmahon,Software Engineer,45,13600.0
+Darren Taylor,Accountant,63,18500.0
+Joseph Taylor,Software Engineer,56,19400.0
+Maria King,High School Teacher,31,6400.0
+Connie Gray,Dentist,36,14900.0
+Taylor Pacheco,Accountant,48,13000.0
+Jeffrey James,Accountant,41,11900.0
+Tina Case,Accountant,29,6800.0
+Jessica Wilson,Software Engineer,53,17500.0
+Sean Buckley,High School Teacher,58,15700.0
+Natasha Mitchell,Accountant,29,8300.0
+Edwin Berry,Accountant,64,18300.0
+Cameron Dudley,Accountant,38,11000.0
+Jennifer Smith,Dentist,28,10500.0
+Mike Townsend,Software Engineer,62,21200.0
+Paula Hall,High School Teacher,27,6400.0
+Kevin Shepherd,Software Engineer,47,16200.0
+Gloria Palmer,High School Teacher,42,9700.0
+Eric Mooney,Software Engineer,30,10100.0
+Jessica Jackson,Dentist,38,15500.0
+Roberto Young,Dentist,26,9900.0
+Ronald Williams,Software Engineer,59,19000.0
+Belinda Roberts,Accountant,59,17800.0
+Jason Martinez,Dentist,61,21600.0
+Travis Bell,Accountant,52,16200.0
+James Wilson,Software Engineer,30,11600.0
+Anthony Cantrell,Dentist,58,20500.0
+Jessica Kelly,Software Engineer,61,18400.0
+Karen Swanson,Accountant,40,10100.0
+Joshua Robinson,Dentist,31,12400.0
+Kenneth Wilson,High School Teacher,31,8900.0
+Jennifer Hancock,Dentist,64,23800.0
+Jeff Aguilar,Dentist,54,20800.0
+Barbara Fitzgerald,Accountant,51,15400.0
+Joseph Jones,Accountant,25,7600.0
+Ariel Smith,Dentist,62,21700.0
+Michael Roman,High School Teacher,64,17800.0
+Valerie Leon,High School Teacher,44,11500.0
+Sarah Miller,Software Engineer,30,10600.0
+Lorraine Kirby,High School Teacher,53,15500.0
+Erik Hall,Software Engineer,64,21800.0
+Richard Wilkins,Dentist,30,11600.0
+Kathy Turner,High School Teacher,58,14500.0
+Rebecca Harris,Accountant,50,14100.0
+Adrian Miller,Software Engineer,33,10500.0
+Jillian Luna,High School Teacher,46,10900.0
+James Maldonado,Dentist,35,15100.0
+Tyler Griffin,Accountant,61,16900.0
+Dr. Mark Whitaker,Dentist,59,21800.0
+Valerie Hale,Dentist,32,13700.0
+Debra Irwin,Accountant,36,11400.0
+Deborah Reid,Dentist,38,14000.0
+Jeremy Webb,High School Teacher,50,14100.0
+Dr. Christopher Palmer,Accountant,58,15500.0
+Wendy Reed,Accountant,31,8400.0
+Alyssa Hoover MD,High School Teacher,60,16100.0
+Jenna Jensen,Dentist,58,19500.0
+Anthony Hughes,Accountant,59,16800.0
+Anna Lee,High School Teacher,33,8200.0
+Joanna Morales,Accountant,44,11800.0
+Brenda Phillips,Software Engineer,52,15700.0
+Kevin Pollard,Software Engineer,50,17100.0
+Troy Jackson,Software Engineer,58,17500.0
+David Hamilton,Accountant,40,11600.0
+Anne Santos,Accountant,64,17800.0
+Eric Hampton,Dentist,32,14200.0
+Donna Hernandez,High School Teacher,53,15000.0
+Richard Murphy,Software Engineer,62,19900.0
+Shannon Olson,Accountant,62,16700.0
+Karen Ross,Software Engineer,38,13000.0
+Ronald Hogan,High School Teacher,23,5000.0
+John Johnson,Software Engineer,31,9400.0
+Kevin Nelson,High School Teacher,62,15700.0
+Jake Garcia,High School Teacher,65,17100.0
+Robert Bennett,Software Engineer,43,13500.0
+Edward Neal,Accountant,48,13000.0
+Brittany Palmer,High School Teacher,42,11700.0
+Rachel Harris,Software Engineer,50,16300.0
+Jason Martinez,Dentist,49,17300.0
+Allison Schwartz,Accountant,43,13500.0
+Andrew Parrish,Accountant,62,17700.0
+Paul Alvarado,Dentist,30,11600.0
+Michael Whitaker,Software Engineer,65,21100.0
+Katrina Walker,High School Teacher,41,9400.0
+John Hunt,High School Teacher,53,14500.0
+David Wong,Dentist,35,12600.0
+Dr. Angela Wells MD,Accountant,26,7100.0
+Troy Rowland,High School Teacher,36,10400.0
+Eric Garcia,High School Teacher,37,9400.0
+Michelle Li,Dentist,46,16400.0
+Theresa Franklin,Accountant,62,17700.0
+Michelle Miller,Software Engineer,50,16600.0
+Lisa Rowland,Accountant,61,16400.0
+Nicole Johnson,High School Teacher,40,11600.0
+Timothy Bright,High School Teacher,45,12600.0
+Lauren Duncan DDS,High School Teacher,37,8700.0
+Ashley Lee,Dentist,26,11900.0
+Thomas Ramirez,Software Engineer,58,18500.0
+Matthew Gonzalez,High School Teacher,54,14300.0
+Angela Lee,High School Teacher,24,5800.0
+Philip Vaughn,Software Engineer,25,10100.0
+Colleen Bishop,Accountant,55,15800.0
+Daniel Williams,Software Engineer,23,9000.0
+Matthew Burns,High School Teacher,33,8500.0
+Kimberly Gibbs,Dentist,46,15900.0
+Scott Neal,High School Teacher,35,8600.0
+Ashley Bennett,Software Engineer,63,20500.0
+Brandon Cain,Dentist,59,21000.0
+Charles Walters,Accountant,57,16700.0
+Tracy Cohen,Accountant,34,9300.0
+Jennifer Holmes,High School Teacher,53,14500.0
+William Wolf,High School Teacher,38,10500.0
+Rebecca Becker,High School Teacher,23,4500.0
+Darin Erickson,Software Engineer,38,11500.0
+Scott Mcdaniel,Dentist,61,20900.0
+Erica Smith,Dentist,43,16500.0
+Tanya Jones,Software Engineer,57,19700.0
+Mark Knox,Dentist,59,20800.0
